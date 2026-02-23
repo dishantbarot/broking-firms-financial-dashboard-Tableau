@@ -1,5 +1,8 @@
 # Broking Firms Financial Dashboard
 
+<img width="1482" height="997" alt="Screenshot 2025-09-29 081930" src="https://github.com/user-attachments/assets/67a96f6e-b5b0-4806-ac09-5e94fe29cf95" />
+
+
 ## 📌 Executive Summary  
 This project presents a Tableau dashboard analyzing the financial performance of major Indian broking firms — **Zerodha, Angel One, HDFC Securities, and ICICI Securities** — from **2014 to 2024**.  
 
